@@ -1,1 +1,1 @@
-print("coffee shop")
+print("coffee mug")
