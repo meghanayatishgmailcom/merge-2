@@ -1,1 +1,1 @@
-print("bigg boss")
+print("bigg boss kannada")
