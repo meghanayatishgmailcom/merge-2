@@ -1,1 +1,1 @@
-print("mysore")
+print("mysore,palace")
